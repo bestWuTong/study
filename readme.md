@@ -1,0 +1,17 @@
+﻿
+
+# 答案目录
+
+Made by SongChuandong
+
+-   [**头歌-Web-答案**](https://www.yuque.com/wutong-x8ieh/study/nqyprzea15unc39m?singleDoc#) 
+
+-   [**头歌-SQL-答案**](https://www.yuque.com/wutong-x8ieh/study/vvrem0pg81keyal6?singleDoc#) 
+
+-   [**PTA-SQL-答案**](https://www.yuque.com/wutong-x8ieh/study/qc8iwlei3r9riyp2?singleDoc#) 
+
+题目地址 (可点击打开)
+
+[头歌 https://www.educoder.net](https://www.educoder.net)
+
+[PTA https://pintia.cn/problem-sets/dashboard](https://pintia.cn/problem-sets/dashboard)
